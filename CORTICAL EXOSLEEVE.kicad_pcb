@@ -7,6 +7,15 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "CORTICAL_EXOSLEEVE - sEMG Hydraulic Controller")
+		(date "2026-08-15")
+		(rev "v1.0.0")
+		(company "Prat (pratkan)")
+		(comment 1 "License: CERN-OHL-S-v2 (Strongly Reciprocal)")
+		(comment 2 "SPDX-License-Identifier: CERN-OHL-S-v2")
+		(comment 3 "Copyright (c) 2026 Prat (pratkan)")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)

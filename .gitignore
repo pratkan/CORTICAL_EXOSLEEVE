@@ -1,0 +1,14 @@
+# KiCad Backups and Caches
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.prl
+fp-info-cache
+*.tmp
+
+# Duplicate Gerber folders
+Gerber_Outpu/
+
+# OS / Editor clutter
+.DS_Store
+Thumbs.db

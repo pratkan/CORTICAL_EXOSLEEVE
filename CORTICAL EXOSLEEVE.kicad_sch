@@ -4,6 +4,15 @@
 	(generator_version "9.0")
 	(uuid "32b83720-775a-4dba-8281-c96bb811a34f")
 	(paper "A4")
+	(title_block
+		(title "CORTICAL_EXOSLEEVE - sEMG Hydraulic Controller")
+		(date "2026-08-15")
+		(rev "v1.0.0")
+		(company "Prat (pratkan)")
+		(comment 1 "License: CERN-OHL-S-v2 (Strongly Reciprocal)")
+		(comment 2 "SPDX-License-Identifier: CERN-OHL-S-v2")
+		(comment 3 "Copyright (c) 2026 Prat (pratkan)")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Instrumentation:INA333xxDGK"
 			(pin_names

@@ -1,0 +1,9 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-v2)
+
+Copyright (c) 2026 Prat (pratkan)
+
+1. PREAMBLE
+1.1 The CERN Open Hardware Licence Version 2 - Strongly Reciprocal ('CERN-OHL-S') aims to provide a framework for the knowledge-sharing of Hardware designs.
+1.2 Under CERN-OHL-S, Source materials remain open. Any modification or physical manifestation of this Hardware must be licensed under CERN-OHL-S-v2.
+
+Full terms available at: https://ohwr.org/cernohl
